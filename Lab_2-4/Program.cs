@@ -10,6 +10,8 @@ namespace Lab_2_4
     {
         static void Main(string[] args)
         {
+            User user = new User();
+            user.InfoAboutUser();
         }
     }
 }
